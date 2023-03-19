@@ -1,0 +1,30 @@
+.matriz{
+    padding: 1em;
+    margin: 1em;
+
+}
+
+.linea{
+    display: flex;
+   
+}
+
+.block{
+   
+    padding: 1em;
+    border: solid;
+    color: black;
+}
+
+.img {
+    width: 360px;
+    height: 400px;
+
+}
+
+body {
+
+    margin:0;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+
+}
