@@ -2,6 +2,7 @@
     padding: 1em;
     margin: 1em;
 
+
 }
 
 .linea{
@@ -13,7 +14,7 @@
    
     padding: 1em;
     border: solid;
-    color: black;
+    color: white;
 }
 
 .img {
@@ -23,8 +24,29 @@
 }
 
 body {
-
+    background-image: url(https://us.123rf.com/450wm/waichi2013th/waichi2013th2209/waichi2013th220900124/192740335-fondo-geom%C3%A9trico-colorido-dise%C3%B1o-de-fondo-de-color-ne%C3%B3n-composici%C3%B3n-de-formas-din%C3%A1micas-fondos.jpg?ver=6);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
     margin:0;
     font-family: 'Edu NSW ACT Foundation', cursive;
+    color: white;
+   
+}
 
+div p span.T {
+    font-size: x-large;
+    color: red;
+}
+h1{
+    text-align:left;
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
 }
