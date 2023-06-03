@@ -1,18 +1,16 @@
 .matriz{
     padding: 1em;
     margin: 1em;
-
-
 }
 
 .linea{
     display: flex;
-   
 }
 
 .block{
    
     padding: 1em;
+    margin: 1em;
     border: solid;
     color: white;
 }
@@ -24,13 +22,14 @@
 }
 
 body {
-    background-image: url(https://us.123rf.com/450wm/waichi2013th/waichi2013th2209/waichi2013th220900124/192740335-fondo-geom%C3%A9trico-colorido-dise%C3%B1o-de-fondo-de-color-ne%C3%B3n-composici%C3%B3n-de-formas-din%C3%A1micas-fondos.jpg?ver=6);
+    /* background-image: url(https://us.123rf.com/450wm/waichi2013th/waichi2013th2209/waichi2013th220900124/192740335-fondo-geom%C3%A9trico-colorido-dise%C3%B1o-de-fondo-de-color-ne%C3%B3n-composici%C3%B3n-de-formas-din%C3%A1micas-fondos.jpg?ver=6);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     margin:0;
-    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Edu NSW ACT Foundation', cursive; */
     color: white;
+    background-color: blueviolet;
    
 }
 
